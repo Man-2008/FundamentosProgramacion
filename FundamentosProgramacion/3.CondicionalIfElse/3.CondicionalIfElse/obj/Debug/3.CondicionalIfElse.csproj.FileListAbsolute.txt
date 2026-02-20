@@ -1,0 +1,7 @@
+C:\Manuela\FundamentosProgramacionMiercoles12\3.CondicionalIfElse\3.CondicionalIfElse\bin\Debug\3.CondicionalIfElse.exe.config
+C:\Manuela\FundamentosProgramacionMiercoles12\3.CondicionalIfElse\3.CondicionalIfElse\bin\Debug\3.CondicionalIfElse.exe
+C:\Manuela\FundamentosProgramacionMiercoles12\3.CondicionalIfElse\3.CondicionalIfElse\bin\Debug\3.CondicionalIfElse.pdb
+C:\Manuela\FundamentosProgramacionMiercoles12\3.CondicionalIfElse\3.CondicionalIfElse\obj\Debug\3.CondicionalIfElse.csproj.AssemblyReference.cache
+C:\Manuela\FundamentosProgramacionMiercoles12\3.CondicionalIfElse\3.CondicionalIfElse\obj\Debug\3.CondicionalIfElse.csproj.CoreCompileInputs.cache
+C:\Manuela\FundamentosProgramacionMiercoles12\3.CondicionalIfElse\3.CondicionalIfElse\obj\Debug\3.CondicionalIfElse.exe
+C:\Manuela\FundamentosProgramacionMiercoles12\3.CondicionalIfElse\3.CondicionalIfElse\obj\Debug\3.CondicionalIfElse.pdb
