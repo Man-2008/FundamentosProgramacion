@@ -1,0 +1,7 @@
+C:\Manuela\FundamentosProgramacion\5.CondicionalesA\5.CondicionalesA\bin\Debug\5.CondicionalesA.exe.config
+C:\Manuela\FundamentosProgramacion\5.CondicionalesA\5.CondicionalesA\bin\Debug\5.CondicionalesA.exe
+C:\Manuela\FundamentosProgramacion\5.CondicionalesA\5.CondicionalesA\bin\Debug\5.CondicionalesA.pdb
+C:\Manuela\FundamentosProgramacion\5.CondicionalesA\5.CondicionalesA\obj\Debug\5.CondicionalesA.csproj.AssemblyReference.cache
+C:\Manuela\FundamentosProgramacion\5.CondicionalesA\5.CondicionalesA\obj\Debug\5.CondicionalesA.csproj.CoreCompileInputs.cache
+C:\Manuela\FundamentosProgramacion\5.CondicionalesA\5.CondicionalesA\obj\Debug\5.CondicionalesA.exe
+C:\Manuela\FundamentosProgramacion\5.CondicionalesA\5.CondicionalesA\obj\Debug\5.CondicionalesA.pdb
