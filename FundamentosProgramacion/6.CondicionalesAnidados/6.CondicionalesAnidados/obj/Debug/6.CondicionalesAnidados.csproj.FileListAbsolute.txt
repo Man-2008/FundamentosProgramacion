@@ -1,0 +1,7 @@
+C:\Manuela\FundamentosProgramacion\6.CondicionalesAnidados\6.CondicionalesAnidados\bin\Debug\6.CondicionalesAnidados.exe.config
+C:\Manuela\FundamentosProgramacion\6.CondicionalesAnidados\6.CondicionalesAnidados\bin\Debug\6.CondicionalesAnidados.exe
+C:\Manuela\FundamentosProgramacion\6.CondicionalesAnidados\6.CondicionalesAnidados\bin\Debug\6.CondicionalesAnidados.pdb
+C:\Manuela\FundamentosProgramacion\6.CondicionalesAnidados\6.CondicionalesAnidados\obj\Debug\6.CondicionalesAnidados.csproj.AssemblyReference.cache
+C:\Manuela\FundamentosProgramacion\6.CondicionalesAnidados\6.CondicionalesAnidados\obj\Debug\6.CondicionalesAnidados.csproj.CoreCompileInputs.cache
+C:\Manuela\FundamentosProgramacion\6.CondicionalesAnidados\6.CondicionalesAnidados\obj\Debug\6.CondicionalesAnidados.exe
+C:\Manuela\FundamentosProgramacion\6.CondicionalesAnidados\6.CondicionalesAnidados\obj\Debug\6.CondicionalesAnidados.pdb
