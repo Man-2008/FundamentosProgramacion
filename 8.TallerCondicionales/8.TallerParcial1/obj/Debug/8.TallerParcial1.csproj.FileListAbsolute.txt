@@ -1,0 +1,7 @@
+C:\Manuela\FundamentosProgramacion\8.TallerCondicionales\8.TallerParcial1\obj\Debug\8.TallerParcial1.csproj.AssemblyReference.cache
+C:\Manuela\FundamentosProgramacion\8.TallerCondicionales\8.TallerParcial1\obj\Debug\8.TallerParcial1.csproj.CoreCompileInputs.cache
+C:\Manuela\FundamentosProgramacion\8.TallerCondicionales\8.TallerParcial1\bin\Debug\8.TallerParcial1.exe.config
+C:\Manuela\FundamentosProgramacion\8.TallerCondicionales\8.TallerParcial1\bin\Debug\8.TallerParcial1.exe
+C:\Manuela\FundamentosProgramacion\8.TallerCondicionales\8.TallerParcial1\bin\Debug\8.TallerParcial1.pdb
+C:\Manuela\FundamentosProgramacion\8.TallerCondicionales\8.TallerParcial1\obj\Debug\8.TallerParcial1.exe
+C:\Manuela\FundamentosProgramacion\8.TallerCondicionales\8.TallerParcial1\obj\Debug\8.TallerParcial1.pdb
