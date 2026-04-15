@@ -1,0 +1,7 @@
+C:\Manuela\FundamentosProgramacion\18. VectoresArreglos\18. VectoresArreglos\bin\Debug\_18.VectoresArreglos.exe.config
+C:\Manuela\FundamentosProgramacion\18. VectoresArreglos\18. VectoresArreglos\bin\Debug\_18.VectoresArreglos.exe
+C:\Manuela\FundamentosProgramacion\18. VectoresArreglos\18. VectoresArreglos\bin\Debug\_18.VectoresArreglos.pdb
+C:\Manuela\FundamentosProgramacion\18. VectoresArreglos\18. VectoresArreglos\obj\Debug\18. VectoresArreglos.csproj.AssemblyReference.cache
+C:\Manuela\FundamentosProgramacion\18. VectoresArreglos\18. VectoresArreglos\obj\Debug\18. VectoresArreglos.csproj.CoreCompileInputs.cache
+C:\Manuela\FundamentosProgramacion\18. VectoresArreglos\18. VectoresArreglos\obj\Debug\_18.VectoresArreglos.exe
+C:\Manuela\FundamentosProgramacion\18. VectoresArreglos\18. VectoresArreglos\obj\Debug\_18.VectoresArreglos.pdb
